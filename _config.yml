@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shi1252.github.io/" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   shi1252
 
 # Social
 analytics-id:       "default"
