@@ -4,13 +4,13 @@ bio:                'Blog of Kyuhan Lee'
 description:        "Blog of Kyuhan Lee"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shi1252.github.io/" # the base hostname & protocol for your site
+url: "https://shi1252.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   shi1252
 
 # Social
-analytics-id:       "default"
+analytics-id:       "shi1252"
 twitter:            
 facebook:           
 instagram:          oink.oink.oink.oink.oink
